@@ -1,23 +1,24 @@
 # SEARCH-JSON
-#SHIPMANTRA-P3
+
+# SHIPMANTRA-P3
  
  
  
 Getting Started
 
-To run a local copy of the application
+# To run a local copy of the application
 
 Installation
 
-Clone the repository===
+# Clone the repository
 
 git clone https://github.com/SaiKUMAR6632/SEARCH-JSON
 
-Install npm packages===
+# Install npm packages
 
 npm install
 
-Start the server
+# Start the server
 
 npm start
 
