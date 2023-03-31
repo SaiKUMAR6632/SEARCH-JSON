@@ -7,6 +7,7 @@ Getting Started
 To run a local copy of the application
 
 Installation
+
 Clone the repository
 git clone https://github.com/SaiKUMAR6632/SEARCH-JSON
 Install npm packages
