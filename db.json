@@ -1,0 +1,64 @@
+{
+  "order": [
+    {
+      "source": "mumbai",
+      "destination": "hyderabad",
+      "weight": "10"
+    },
+    {
+      "source": "goa",
+      "destination": "hyderabad",
+      "weight": "10"
+    },
+    {
+      "source": "mumbai",
+      "destination": "goa",
+      "weight": "10"
+    },
+    {
+      "source": "mumbai",
+      "destination": "bangalore",
+      "weight": "10"
+    },
+    {
+      "source": "bangalore",
+      "destination": "hyderabad",
+      "weight": "10"
+    },
+    {
+      "source": "bangalore",
+      "destination": "goa",
+      "weight": "10"
+    },
+    {
+      "source": "mumbai",
+      "destination": "hyderabad",
+      "weight": "15"
+    },
+    {
+      "source": "goa",
+      "destination": "hyderabad",
+      "weight": "15"
+    },
+    {
+      "source": "mumbai",
+      "destination": "goa",
+      "weight": "15"
+    },
+    {
+      "source": "mumbai",
+      "destination": "bangalore",
+      "weight": "15"
+    },
+    {
+      "source": "bangalore",
+      "destination": "hyderabad",
+      "weight": "15"
+    },
+    {
+      "source": "bangalore",
+      "destination": "goa",
+      "weight": "15"
+    }
+  ]
+}
